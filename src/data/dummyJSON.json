@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "name": "Air Force 1 Nike Air Max Skate",
+      "price": "979,00",
+      "image": "air-f1.png"
+    },
+    {
+      "name": "Shoe Nike Air Max",
+      "price": "899,00",
+      "image": "air-max.png"
+    },
+    {
+      "name": "Nike Air Max Sneakers Shoe red",
+      "price": "499,00",
+      "image": "nike-air-max-red.png"
+    },
+    {
+      "name": "Nike Air Max Sneakers Shoe blue",
+      "price": "499,00",
+      "image": "nike-air-max-blue.png"
+    },
+    {
+      "name": "Nike Free Air Force",
+      "price": "999,00,",
+      "image": "air-free.png"
+    },
+    {
+      "name": "Adidas Originals Skate shoe",
+      "price": "669,00",
+      "image": "original-skate.png"
+    },
+    {
+      "name": " Nike ONE",
+      "price": "899,00",
+      "image": "nike-one.png"
+    },
+    {
+      "name": "Nike Free Sneakers",
+      "price": "599,00",
+      "image": "nike-free.png"
+    },
+    {
+      "name": "Mens Air Jordan 1 Retro High",
+      "price": "789,00",
+      "image": "mens-air.png"
+    },
+    {
+      "name": "Nike Air Max",
+      "price": "599,00",
+      "image": "nike-air-max.png"
+    },
+    {
+      "name": "Nike Air Force Air Jordan 11 Retro",
+      "price": "699,00",
+      "image": "nike-air-jordan-retro.png"
+    },
+    {
+      "name": "Skate shoe Sneakers Vans",
+      "price": "499,00",
+      "image": "sneakers-vans.png"
+    },
+    {
+      "name": "Adidas Superstar Sneakers",
+      "price": "499,00,",
+      "image": "addidas-superstar.png"
+    },
+    {
+      "name": "Nike Flywire Shoe",
+      "price": "399,00",
+      "image": "nike-flywire.png"
+    },
+    {
+      "name": "Nike Performance",
+      "price": "789,00",
+      "image": "nike-performance.png"
+    },
+    {
+      "name": "Nike Sneaker Tanjun",
+      "price": "599,00",
+      "image": "nike-sneaker-tanjun.png"
+    },
+    {
+      "name": "Nike Air Flight Lite",
+      "price": "979,00",
+      "image": "nike-air-flight-lite.png"
+    },
+    {
+      "name": "Adidas Duramo 10",
+      "price": "899,00",
+      "image": "adidas-duramo-10.png"
+    },
+    {
+      "name": "Nike Sneakers Huarache",
+      "price": "999,00,",
+      "image": "nike-sneakers-huarache.png"
+    },
+    {
+      "name": "Nike Air Jordan",
+      "price": "669,00",
+      "image": "nike-air-jordan.png"
+    },
+    {
+      "name": "Adidas Yeezy Sneakers",
+      "price": "899,00",
+      "image": "adidas-yeezy-sneakers.png"
+    },
+    {
+      "name": "Adidas Chaussure Gazelle",
+      "price": "599,00",
+      "image": "adidas-chaussure-gazelle.png"
+    },
+    {
+      "name": "Adidas Stan Smith",
+      "price": "789,00",
+      "image": "adidas-stan-smith.png"
+    },
+    {
+      "name": "Adidas Samba",
+      "price": "599,00",
+      "image": "adidas-samba.png"
+    },
+    {
+      "name": "Chuck Taylor All-Stars High-top Converse",
+      "price": "499,00",
+      "image": "converse.png"
+    },
+    {
+      "name": "Adidas Originals NMD R1",
+      "price": "899,00",
+      "image": "adidas-NMD-R1.png"
+    },
+    {
+      "name": "Adidas Ultra Boost 3.0",
+      "price": "999,00,",
+      "image": "adidas-ultra-boost-3.0.png"
+    },
+    {
+      "name": "Adidas Originals FLUX",
+      "price": "669,00",
+      "image": "adidas-originals-FLUX.png"
+    },
+    {
+      "name": " Adidas NMD Xr1",
+      "price": "899,00",
+      "image": "adidas-NMD-Xr1.png"
+    },
+    {
+      "name": "Adidas ZX Sneakers",
+      "price": "599,00",
+      "image": "adidas-ZX-sneakers.png"
+    }
+  ]
+}
