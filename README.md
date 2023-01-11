@@ -1,4 +1,4 @@
-# Lego frontend case
+# Study case
 
 You are a software engineer for a new e-commerce company looking to open
 their first online store.
