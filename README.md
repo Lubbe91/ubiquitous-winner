@@ -1,5 +1,14 @@
 # Lego frontend case
 
+You are a software engineer for a new e-commerce company looking to open
+their first online store.
+
+Create a new React web application in TypeScript. It is recommended to
+use Create React App, but not required. Spend around two to four hours on the
+solution.
+
+The application should consist of the following:
+
 ## **Essentials**
 
 ---
